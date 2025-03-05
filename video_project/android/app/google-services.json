@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673390397077",
+    "project_id": "four-one-one-project",
+    "storage_bucket": "four-one-one-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673390397077:android:6268ce0ff2e11b19c13d9c",
+        "android_client_info": {
+          "package_name": "com.example.video_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8C6h4zPZcSZcilYkBv7IaitQTd-EqQqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
